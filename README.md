@@ -29,8 +29,8 @@ Changelog
 
 Base folders added
 
-Readme Created
-Live Link Created
+- Readme Created
+- Live Link Created
 
 Contributors
 Nashville James- 2019
