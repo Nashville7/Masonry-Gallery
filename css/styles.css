@@ -1,0 +1,101 @@
+/* Base styles */
+
+/* Properties of whole page */
+body {
+    background-color: rgba(0, 0, 0, 0.685);
+}
+
+/* container properties */
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: repeat(5,350px);
+}
+
+/* header 1 properties */
+header h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(223, 33, 33);
+    text-shadow: 5px 3px rgb(218, 187, 15);
+}
+/* images height & width */
+.item img {
+    height: 100%;
+    width: 100%;
+}
+
+/* al items properties */
+.item {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-color: #11ABB0;
+  border: 2px solid rgb(215, 234, 235);
+  
+}
+
+.item1 {
+   grid-column: span 2; 
+    
+}
+
+.item2 {
+    grid-column: span 2;
+}
+
+.item3 {
+    grid-column: span 2;
+}
+
+
+.item5 {
+   grid-column: span 2; 
+}
+
+.item6 {
+    grid-column: span 2; 
+}
+
+.item8 {
+    grid-column: span 2; 
+}
+
+.item9 {
+    grid-column: span 2; 
+}
+
+
+.item12 {
+    grid-column: span 3; 
+}
+
+.item13 {
+    grid-column: span 3; 
+
+}
+
+
+.item15 {
+    grid-column: span 2; 
+}
+
+.item16 {
+    grid-column: span 1; 
+}
+
+
+.item19 {
+   grid-column: span 2;
+  
+}
+
+.item22 {
+    grid-column: span 3;
+    
+}
+
+
+
