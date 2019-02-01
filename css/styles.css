@@ -27,12 +27,11 @@ header h1 {
     width: 100%;
 }
 
-/* al items properties */
+/* all items properties */
 .item {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  border-color: #11ABB0;
   border: 2px solid rgb(215, 234, 235);
   
 }
