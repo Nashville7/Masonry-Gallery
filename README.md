@@ -7,7 +7,7 @@ Setting up your workspace
 - Create your base folder structure (css,images, js)
 
 Live Link
-https://nashville7.github.io/html_challenges/index.html
+https://nashville7.github.io/masonry-gallery/
 
 Prevalent Technologies Used
 - HTML
@@ -33,4 +33,4 @@ Base folders added
 - Live Link Created
 
 Contributors
-Nashville James- 2019
+- Nashville James- 2019
