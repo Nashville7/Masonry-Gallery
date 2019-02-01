@@ -1,11 +1,11 @@
 /* Base styles */
 
-/* Properties of whole page */
+/* Properties of the whole page */
 body {
     background-color: rgba(0, 0, 0, 0.685);
 }
 
-/* container properties */
+/* grid container properties */
 .container {
     display: grid;
     grid-gap: 5px;
